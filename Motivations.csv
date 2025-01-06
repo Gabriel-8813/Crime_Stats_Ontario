@@ -1,0 +1,193 @@
+Motivation_ID,REF_DATE,Type of motivation,VALUE
+1,2014,Race or ethnicity,611.0
+2,2015,Race or ethnicity,641.0
+3,2016,Race or ethnicity,666.0
+4,2017,Race or ethnicity,878.0
+5,2018,Race or ethnicity,793.0
+6,2019,Race or ethnicity,884.0
+7,2020,Race or ethnicity,1619.0
+8,2021,Race or ethnicity,1745.0
+9,2022,Race or ethnicity,2002.0
+10,2023,Race or ethnicity,2128.0
+12,2014,Religion,429.0
+13,2015,Religion,469.0
+14,2016,Religion,460.0
+15,2017,Religion,842.0
+16,2018,Religion,657.0
+17,2019,Religion,613.0
+18,2020,Religion,530.0
+19,2021,Religion,886.0
+20,2022,Religion,768.0
+21,2023,Religion,1284.0
+23,2014,Sexual orientation,155.0
+24,2015,Sexual orientation,141.0
+25,2016,Sexual orientation,176.0
+26,2017,Sexual orientation,204.0
+27,2018,Sexual orientation,186.0
+28,2019,Sexual orientation,265.0
+29,2020,Sexual orientation,258.0
+30,2021,Sexual orientation,438.0
+31,2022,Sexual orientation,509.0
+32,2023,Sexual orientation,860.0
+34,2014,Language,12.0
+35,2015,Language,18.0
+36,2016,Language,13.0
+37,2017,Language,23.0
+38,2018,Language,14.0
+39,2019,Language,25.0
+40,2020,Language,37.0
+41,2021,Language,33.0
+42,2022,Language,63.0
+43,2023,Language,50.0
+45,2014,Mental or Physical Disability,10.0
+46,2015,Mental or Physical Disability,8.0
+47,2016,Mental or Physical Disability,11.0
+48,2017,Mental or Physical Disability,10.0
+49,2018,Mental or Physical Disability,9.0
+50,2019,Mental or Physical Disability,3.0
+51,2020,Mental or Physical Disability,8.0
+52,2021,Mental or Physical Disability,16.0
+53,2022,Mental or Physical Disability,15.0
+54,2023,Mental or Physical Disability,13.0
+56,2014,Sex and gender,22.0
+57,2015,Sex and gender,12.0
+58,2016,Sex and gender,24.0
+59,2017,Sex and gender,32.0
+60,2018,Sex and gender,54.0
+61,2019,Sex and gender,56.0
+62,2020,Sex and gender,49.0
+63,2021,Sex and gender,60.0
+64,2022,Sex and gender,90.0
+65,2023,Sex and gender,123.0
+67,2014,Age,6.0
+68,2015,Age,4.0
+69,2016,Age,5.0
+70,2017,Age,4.0
+71,2018,Age,9.0
+72,2019,Age,8.0
+73,2020,Age,5.0
+74,2021,Age,14.0
+75,2022,Age,5.0
+76,2023,Age,10.0
+77,2021,Immigrants / Newcomers to Canada,0.0
+78,2022,Immigrants / Newcomers to Canada,0.0
+79,2023,Immigrants / Newcomers to Canada,16.0
+81,2014,Other similar factor,27.0
+82,2015,Other similar factor,44.0
+83,2016,Other similar factor,35.0
+84,2017,Other similar factor,48.0
+85,2018,Other similar factor,73.0
+86,2019,Other similar factor,58.0
+87,2020,Other similar factor,101.0
+88,2021,Other similar factor,82.0
+89,2022,Other similar factor,103.0
+90,2023,Other similar factor,82.0
+91,2021,Combination (More than 2 motivations),0.0
+92,2022,Combination (More than 2 motivations),0.0
+93,2023,Combination (More than 2 motivations),31.0
+95,2014,Unknown motivation,23.0
+96,2015,Unknown motivation,25.0
+97,2016,Unknown motivation,19.0
+98,2017,Unknown motivation,32.0
+99,2018,Unknown motivation,22.0
+100,2019,Unknown motivation,39.0
+101,2020,Unknown motivation,39.0
+102,2021,Unknown motivation,81.0
+103,2022,Unknown motivation,57.0
+104,2023,Unknown motivation,180.0
+105,2014,Race or ethnicity,315.0
+106,2015,Race or ethnicity,308.0
+107,2016,Race or ethnicity,273.0
+108,2017,Race or ethnicity,428.0
+109,2018,Race or ethnicity,346.0
+110,2019,Race or ethnicity,376.0
+111,2020,Race or ethnicity,702.0
+112,2021,Race or ethnicity,843.0
+113,2022,Race or ethnicity,1031.0
+114,2023,Race or ethnicity,948.0
+115,2014,Religion,246.0
+116,2015,Religion,224.0
+117,2016,Religion,242.0
+118,2017,Religion,437.0
+119,2018,Religion,326.0
+120,2019,Religion,312.0
+121,2020,Religion,297.0
+122,2021,Religion,455.0
+123,2022,Religion,499.0
+124,2023,Religion,780.0
+125,2014,Sexual orientation,70.0
+126,2015,Sexual orientation,69.0
+127,2016,Sexual orientation,76.0
+128,2017,Sexual orientation,114.0
+129,2018,Sexual orientation,83.0
+130,2019,Sexual orientation,119.0
+131,2020,Sexual orientation,112.0
+132,2021,Sexual orientation,242.0
+133,2022,Sexual orientation,286.0
+134,2023,Sexual orientation,446.0
+135,2014,Language,0.0
+136,2015,Language,0.0
+137,2016,Language,0.0
+138,2017,Language,0.0
+139,2018,Language,0.0
+140,2019,Language,0.0
+141,2020,Language,0.0
+142,2021,Language,0.0
+143,2022,Language,0.0
+144,2023,Language,0.0
+145,2014,Mental or Physical Disability,0.0
+146,2015,Mental or Physical Disability,0.0
+147,2016,Mental or Physical Disability,0.0
+148,2017,Mental or Physical Disability,0.0
+149,2018,Mental or Physical Disability,0.0
+150,2019,Mental or Physical Disability,0.0
+151,2020,Mental or Physical Disability,0.0
+152,2021,Mental or Physical Disability,0.0
+153,2022,Mental or Physical Disability,0.0
+154,2023,Mental or Physical Disability,0.0
+155,2014,Sex and gender,0.0
+156,2015,Sex and gender,0.0
+157,2016,Sex and gender,0.0
+158,2017,Sex and gender,0.0
+159,2018,Sex and gender,0.0
+160,2019,Sex and gender,0.0
+161,2020,Sex and gender,0.0
+162,2021,Sex and gender,0.0
+163,2022,Sex and gender,0.0
+164,2023,Sex and gender,0.0
+165,2014,Age,0.0
+166,2015,Age,0.0
+167,2016,Age,0.0
+168,2017,Age,0.0
+169,2018,Age,0.0
+170,2019,Age,0.0
+171,2020,Age,0.0
+172,2021,Age,0.0
+173,2022,Age,0.0
+174,2023,Age,0.0
+175,2021,Immigrants / Newcomers to Canada,0.0
+176,2022,Immigrants / Newcomers to Canada,0.0
+177,2023,Immigrants / Newcomers to Canada,0.0
+178,2014,Other similar factor,0.0
+179,2015,Other similar factor,0.0
+180,2016,Other similar factor,0.0
+181,2017,Other similar factor,0.0
+182,2018,Other similar factor,0.0
+183,2019,Other similar factor,0.0
+184,2020,Other similar factor,0.0
+185,2021,Other similar factor,0.0
+186,2022,Other similar factor,0.0
+187,2023,Other similar factor,0.0
+188,2021,Combination (More than 2 motivations),0.0
+189,2022,Combination (More than 2 motivations),0.0
+190,2023,Combination (More than 2 motivations),0.0
+191,2014,Unknown motivation,0.0
+192,2015,Unknown motivation,0.0
+193,2016,Unknown motivation,0.0
+194,2017,Unknown motivation,0.0
+195,2018,Unknown motivation,0.0
+196,2019,Unknown motivation,0.0
+197,2020,Unknown motivation,0.0
+198,2021,Unknown motivation,0.0
+199,2022,Unknown motivation,0.0
+200,2023,Unknown motivation,0.0

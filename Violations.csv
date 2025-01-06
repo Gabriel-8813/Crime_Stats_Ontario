@@ -1,0 +1,38 @@
+Violation_ID,Violation
+0,"Assault, level 1 "
+1,"Assault, level 2, weapon or bodily harm "
+2,"Assault, level 3, aggravated "
+3,Attempted murder 
+4,Counterfeiting 
+5,Criminal harassment 
+6,Disturb the peace 
+7,Extortion 
+8,Homicide 
+9,Indecent/Harassing communications 
+10,"Making, or distribution of child pornography "
+11,"Possession of, or accessing child pornography "
+12,"Sexual assault, level 1 "
+13,"Sexual assault, level 2, weapon or bodily harm "
+14,"Sexual assault, level 3, aggravated "
+15,"Sexual offence which occurred prior to January 4, 1983 "
+16,Total abduction 
+17,Total administration of justice violations 
+18,Total assaults against a peace officer 
+19,"Total firearms, use of, discharge, pointing "
+20,Total forcible confinement or kidnapping 
+21,Total offences in relation to sexual services 
+22,Total other Criminal Code violations 
+23,Total other assaults 
+24,Total other violations 
+25,Total other violations causing death 
+26,Total other violent violations 
+27,Total property crime violations 
+28,Total prostitution 
+29,Total robbery 
+30,Total sexual violations against children 
+31,Total violations related to animal cruelty 
+32,Total violent Criminal Code violations 
+33,Total weapons violations 
+34,"Total, all Criminal Code violations (excluding traffic) "
+35,"Total, all violations "
+36,Uttering threats 

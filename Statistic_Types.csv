@@ -1,0 +1,7 @@
+Stat_Type_ID,Statistic_Type
+0,Actual
+1,Cleared
+2,Percent
+3,Rate
+4,Total
+5,Unfounded

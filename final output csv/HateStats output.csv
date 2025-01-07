@@ -1,0 +1,202 @@
+ID,Year,Hate_Crime,Hate_crime_count,location
+0,2013,Race or ethnicity,0.0,"Canada, selected police services"
+1,2014,Race or ethnicity,611.0,"Canada, selected police services"
+2,2015,Race or ethnicity,641.0,"Canada, selected police services"
+3,2016,Race or ethnicity,666.0,"Canada, selected police services"
+4,2017,Race or ethnicity,878.0,"Canada, selected police services"
+5,2018,Race or ethnicity,793.0,"Canada, selected police services"
+6,2019,Race or ethnicity,884.0,"Canada, selected police services"
+7,2020,Race or ethnicity,1619.0,"Canada, selected police services"
+8,2021,Race or ethnicity,1745.0,"Canada, selected police services"
+9,2022,Race or ethnicity,2002.0,"Canada, selected police services"
+10,2023,Race or ethnicity,2128.0,"Canada, selected police services"
+11,2013,Religion,0.0,"Canada, selected police services"
+12,2014,Religion,429.0,"Canada, selected police services"
+13,2015,Religion,469.0,"Canada, selected police services"
+14,2016,Religion,460.0,"Canada, selected police services"
+15,2017,Religion,842.0,"Canada, selected police services"
+16,2018,Religion,657.0,"Canada, selected police services"
+17,2019,Religion,613.0,"Canada, selected police services"
+18,2020,Religion,530.0,"Canada, selected police services"
+19,2021,Religion,886.0,"Canada, selected police services"
+20,2022,Religion,768.0,"Canada, selected police services"
+21,2023,Religion,1284.0,"Canada, selected police services"
+22,2013,Sexual orientation,0.0,"Canada, selected police services"
+23,2014,Sexual orientation,155.0,"Canada, selected police services"
+24,2015,Sexual orientation,141.0,"Canada, selected police services"
+25,2016,Sexual orientation,176.0,"Canada, selected police services"
+26,2017,Sexual orientation,204.0,"Canada, selected police services"
+27,2018,Sexual orientation,186.0,"Canada, selected police services"
+28,2019,Sexual orientation,265.0,"Canada, selected police services"
+29,2020,Sexual orientation,258.0,"Canada, selected police services"
+30,2021,Sexual orientation,438.0,"Canada, selected police services"
+31,2022,Sexual orientation,509.0,"Canada, selected police services"
+32,2023,Sexual orientation,860.0,"Canada, selected police services"
+33,2013,Language,0.0,"Canada, selected police services"
+34,2014,Language,12.0,"Canada, selected police services"
+35,2015,Language,18.0,"Canada, selected police services"
+36,2016,Language,13.0,"Canada, selected police services"
+37,2017,Language,23.0,"Canada, selected police services"
+38,2018,Language,14.0,"Canada, selected police services"
+39,2019,Language,25.0,"Canada, selected police services"
+40,2020,Language,37.0,"Canada, selected police services"
+41,2021,Language,33.0,"Canada, selected police services"
+42,2022,Language,63.0,"Canada, selected police services"
+43,2023,Language,50.0,"Canada, selected police services"
+44,2013,Mental or Physical Disability,0.0,"Canada, selected police services"
+45,2014,Mental or Physical Disability,10.0,"Canada, selected police services"
+46,2015,Mental or Physical Disability,8.0,"Canada, selected police services"
+47,2016,Mental or Physical Disability,11.0,"Canada, selected police services"
+48,2017,Mental or Physical Disability,10.0,"Canada, selected police services"
+49,2018,Mental or Physical Disability,9.0,"Canada, selected police services"
+50,2019,Mental or Physical Disability,3.0,"Canada, selected police services"
+51,2020,Mental or Physical Disability,8.0,"Canada, selected police services"
+52,2021,Mental or Physical Disability,16.0,"Canada, selected police services"
+53,2022,Mental or Physical Disability,15.0,"Canada, selected police services"
+54,2023,Mental or Physical Disability,13.0,"Canada, selected police services"
+55,2013,Sex and gender,0.0,"Canada, selected police services"
+56,2014,Sex and gender,22.0,"Canada, selected police services"
+57,2015,Sex and gender,12.0,"Canada, selected police services"
+58,2016,Sex and gender,24.0,"Canada, selected police services"
+59,2017,Sex and gender,32.0,"Canada, selected police services"
+60,2018,Sex and gender,54.0,"Canada, selected police services"
+61,2019,Sex and gender,56.0,"Canada, selected police services"
+62,2020,Sex and gender,49.0,"Canada, selected police services"
+63,2021,Sex and gender,60.0,"Canada, selected police services"
+64,2022,Sex and gender,90.0,"Canada, selected police services"
+65,2023,Sex and gender,123.0,"Canada, selected police services"
+66,2013,Age,0.0,"Canada, selected police services"
+67,2014,Age,6.0,"Canada, selected police services"
+68,2015,Age,4.0,"Canada, selected police services"
+69,2016,Age,5.0,"Canada, selected police services"
+70,2017,Age,4.0,"Canada, selected police services"
+71,2018,Age,9.0,"Canada, selected police services"
+72,2019,Age,8.0,"Canada, selected police services"
+73,2020,Age,5.0,"Canada, selected police services"
+74,2021,Age,14.0,"Canada, selected police services"
+75,2022,Age,5.0,"Canada, selected police services"
+76,2023,Age,10.0,"Canada, selected police services"
+77,2021,Immigrants / Newcomers to Canada,0.0,"Canada, selected police services"
+78,2022,Immigrants / Newcomers to Canada,0.0,"Canada, selected police services"
+79,2023,Immigrants / Newcomers to Canada,16.0,"Canada, selected police services"
+80,2013,Other similar factor,0.0,"Canada, selected police services"
+81,2014,Other similar factor,27.0,"Canada, selected police services"
+82,2015,Other similar factor,44.0,"Canada, selected police services"
+83,2016,Other similar factor,35.0,"Canada, selected police services"
+84,2017,Other similar factor,48.0,"Canada, selected police services"
+85,2018,Other similar factor,73.0,"Canada, selected police services"
+86,2019,Other similar factor,58.0,"Canada, selected police services"
+87,2020,Other similar factor,101.0,"Canada, selected police services"
+88,2021,Other similar factor,82.0,"Canada, selected police services"
+89,2022,Other similar factor,103.0,"Canada, selected police services"
+90,2023,Other similar factor,82.0,"Canada, selected police services"
+91,2021,Combination (More than 2 motivations),0.0,"Canada, selected police services"
+92,2022,Combination (More than 2 motivations),0.0,"Canada, selected police services"
+93,2023,Combination (More than 2 motivations),31.0,"Canada, selected police services"
+94,2013,Unknown motivation,0.0,"Canada, selected police services"
+95,2014,Unknown motivation,23.0,"Canada, selected police services"
+96,2015,Unknown motivation,25.0,"Canada, selected police services"
+97,2016,Unknown motivation,19.0,"Canada, selected police services"
+98,2017,Unknown motivation,32.0,"Canada, selected police services"
+99,2018,Unknown motivation,22.0,"Canada, selected police services"
+100,2019,Unknown motivation,39.0,"Canada, selected police services"
+101,2020,Unknown motivation,39.0,"Canada, selected police services"
+102,2021,Unknown motivation,81.0,"Canada, selected police services"
+103,2022,Unknown motivation,57.0,"Canada, selected police services"
+104,2023,Unknown motivation,180.0,"Canada, selected police services"
+105,2014,Race or ethnicity,315.0,Ontario 
+106,2015,Race or ethnicity,308.0,Ontario 
+107,2016,Race or ethnicity,273.0,Ontario 
+108,2017,Race or ethnicity,428.0,Ontario 
+109,2018,Race or ethnicity,346.0,Ontario 
+110,2019,Race or ethnicity,376.0,Ontario 
+111,2020,Race or ethnicity,702.0,Ontario 
+112,2021,Race or ethnicity,843.0,Ontario 
+113,2022,Race or ethnicity,1031.0,Ontario 
+114,2023,Race or ethnicity,948.0,Ontario 
+115,2014,Religion,246.0,Ontario 
+116,2015,Religion,224.0,Ontario 
+117,2016,Religion,242.0,Ontario 
+118,2017,Religion,437.0,Ontario 
+119,2018,Religion,326.0,Ontario 
+120,2019,Religion,312.0,Ontario 
+121,2020,Religion,297.0,Ontario 
+122,2021,Religion,455.0,Ontario 
+123,2022,Religion,499.0,Ontario 
+124,2023,Religion,780.0,Ontario 
+125,2014,Sexual orientation,70.0,Ontario 
+126,2015,Sexual orientation,69.0,Ontario 
+127,2016,Sexual orientation,76.0,Ontario 
+128,2017,Sexual orientation,114.0,Ontario 
+129,2018,Sexual orientation,83.0,Ontario 
+130,2019,Sexual orientation,119.0,Ontario 
+131,2020,Sexual orientation,112.0,Ontario 
+132,2021,Sexual orientation,242.0,Ontario 
+133,2022,Sexual orientation,286.0,Ontario 
+134,2023,Sexual orientation,446.0,Ontario 
+135,2014,Language,0.0,Ontario 
+136,2015,Language,0.0,Ontario 
+137,2016,Language,0.0,Ontario 
+138,2017,Language,0.0,Ontario 
+139,2018,Language,0.0,Ontario 
+140,2019,Language,0.0,Ontario 
+141,2020,Language,0.0,Ontario 
+142,2021,Language,0.0,Ontario 
+143,2022,Language,0.0,Ontario 
+144,2023,Language,0.0,Ontario 
+145,2014,Mental or Physical Disability,0.0,Ontario 
+146,2015,Mental or Physical Disability,0.0,Ontario 
+147,2016,Mental or Physical Disability,0.0,Ontario 
+148,2017,Mental or Physical Disability,0.0,Ontario 
+149,2018,Mental or Physical Disability,0.0,Ontario 
+150,2019,Mental or Physical Disability,0.0,Ontario 
+151,2020,Mental or Physical Disability,0.0,Ontario 
+152,2021,Mental or Physical Disability,0.0,Ontario 
+153,2022,Mental or Physical Disability,0.0,Ontario 
+154,2023,Mental or Physical Disability,0.0,Ontario 
+155,2014,Sex and gender,0.0,Ontario 
+156,2015,Sex and gender,0.0,Ontario 
+157,2016,Sex and gender,0.0,Ontario 
+158,2017,Sex and gender,0.0,Ontario 
+159,2018,Sex and gender,0.0,Ontario 
+160,2019,Sex and gender,0.0,Ontario 
+161,2020,Sex and gender,0.0,Ontario 
+162,2021,Sex and gender,0.0,Ontario 
+163,2022,Sex and gender,0.0,Ontario 
+164,2023,Sex and gender,0.0,Ontario 
+165,2014,Age,0.0,Ontario 
+166,2015,Age,0.0,Ontario 
+167,2016,Age,0.0,Ontario 
+168,2017,Age,0.0,Ontario 
+169,2018,Age,0.0,Ontario 
+170,2019,Age,0.0,Ontario 
+171,2020,Age,0.0,Ontario 
+172,2021,Age,0.0,Ontario 
+173,2022,Age,0.0,Ontario 
+174,2023,Age,0.0,Ontario 
+175,2021,Immigrants / Newcomers to Canada,0.0,Ontario 
+176,2022,Immigrants / Newcomers to Canada,0.0,Ontario 
+177,2023,Immigrants / Newcomers to Canada,0.0,Ontario 
+178,2014,Other similar factor,0.0,Ontario 
+179,2015,Other similar factor,0.0,Ontario 
+180,2016,Other similar factor,0.0,Ontario 
+181,2017,Other similar factor,0.0,Ontario 
+182,2018,Other similar factor,0.0,Ontario 
+183,2019,Other similar factor,0.0,Ontario 
+184,2020,Other similar factor,0.0,Ontario 
+185,2021,Other similar factor,0.0,Ontario 
+186,2022,Other similar factor,0.0,Ontario 
+187,2023,Other similar factor,0.0,Ontario 
+188,2021,Combination (More than 2 motivations),0.0,Ontario 
+189,2022,Combination (More than 2 motivations),0.0,Ontario 
+190,2023,Combination (More than 2 motivations),0.0,Ontario 
+191,2014,Unknown motivation,0.0,Ontario 
+192,2015,Unknown motivation,0.0,Ontario 
+193,2016,Unknown motivation,0.0,Ontario 
+194,2017,Unknown motivation,0.0,Ontario 
+195,2018,Unknown motivation,0.0,Ontario 
+196,2019,Unknown motivation,0.0,Ontario 
+197,2020,Unknown motivation,0.0,Ontario 
+198,2021,Unknown motivation,0.0,Ontario 
+199,2022,Unknown motivation,0.0,Ontario 
+200,2023,Unknown motivation,0.0,Ontario 

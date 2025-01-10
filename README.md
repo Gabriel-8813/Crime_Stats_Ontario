@@ -114,6 +114,12 @@ The code uses SQLite to execute SQL queries directly, optimizing performance by 
 
 •	Error Handling: Robust error handling ensures that any issues during data fetching are logged, while the application gracefully returns an empty DataFrame, promoting resilience and reliability.
 
+### HTML Option of Creating Frontend Interface 
+Alternatively we considered using a webpage to display our data having accessed it using a Flask API.
+To do this, we used 'render_template' function to render the index.html file. 
+Created a dropdown menu of cities in our data as the alternative to further explore the data.
+
+
 ## Technical Tool & Libraries
 
 #### Languages & Libraries:

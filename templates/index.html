@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crime and Hate Stats in Ontario</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  <link rel="stylesheet" href="{{url_for('static',filename='./css/style.css')}}">
+</head>
+<body>
+  <h1></h1>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 p-5 text-center bg-light">
+        <h1>Crime and Hate Crime statistics in the Ontario, Canada Dashboard</h1>
+        <p>Stay safe and Informed by using the interactive fields below to explore the dataset</p>
+      </div>
+    </div>
+    <br>
+    <div class="row">
+      <div class="col-md-3">
+        <div class="card card-body bg-light">
+          <h6>Cities:</h6>
+          <select id="selDataset" onchange="optionChanged(this.value)"></select>
+        </div>
+        <br>
+        <div class="card card-primary">
+          <div class="card-header">
+            <h4 class="card-title">Crime Incidents Info</h4>
+          </div>
+          <div id="sample-metadata" class="card-body"></div>
+        </div>
+      </div>
+      <div class="col-md-9">
+        <div id="bar"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div id="bubble"></div>
+      </div>
+    </div>
+  </div>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="{{url_for('static',filename='./js/logic.js')}}"></script>
+</body>
+</html

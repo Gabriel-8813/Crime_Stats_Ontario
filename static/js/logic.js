@@ -35,7 +35,6 @@ async function init() {
 }
 
 
-
 // Function for event listener
 function optionChanged(newCity) {
     // Build charts and metadata panel each time a new sample is selected
